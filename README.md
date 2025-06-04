@@ -27,6 +27,20 @@
 
 ---
 
+### 📚 Academic Interests
+
+- Maritime autonomy and USV guidance/control
+- SLAM, 3D LiDAR processing, and sensor fusion
+- Real-time control systems and simulation
+
+### 🌱 Currently Learning
+
+- Multi-agent path planning (CBS, DRL)
+- MPC tuning for autonomous marine platforms
+- Vision-LiDAR integration for perception
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -36,6 +50,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidarmansiwon&layout=compact&langs_count=6&hide=html,css&theme=default" alt="Top Languages" width="400">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lidarmansiwon&theme=flat&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
