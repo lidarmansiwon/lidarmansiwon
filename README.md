@@ -34,6 +34,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lidarmansiwon" alt="GitHub Streak" width="400"><br>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidarmansiwon&layout=compact&langs_count=6&hide=html,css&theme=default" alt="Top Languages" width="400">
+</p>
+
 ---
 
 <!--
