@@ -40,6 +40,13 @@
 
 ---
 
+### 🔗 Links
+
+- 📝 [Tistory Blog](https://lidarmansiwon.tistory.com/)
+- 🧪 [Research Lab (PKNU MACRO Lab)](https://www.pknumacro.com/)
+
+---
+
 <!--
 **lidarmansiwon/lidarmansiwon** is a ✨ special ✨ repository because its `README.md` will appear on your GitHub profile.
 -->
