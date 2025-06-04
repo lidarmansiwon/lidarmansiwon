@@ -1,5 +1,5 @@
 <!-- Hi there 👋 -->
-<h1 align="center">Hi, I'm Mansiwon 👋</h1>
+<h1 align="center">Hi, I'm LiDARMAN Siwon 👋</h1>
 <p align="center">
   <b>Researcher & Developer | Autonomous Surface Vessels (ASVs) | Robotics & AI Enthusiast</b>
 </p>
