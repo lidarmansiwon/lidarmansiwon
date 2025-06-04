@@ -32,7 +32,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lidarmansiwon&show_icons=true&hide_title=true&hide_rank=true&count_private=true&hide=prs&include_all_commits=true" alt="Mansiwon's GitHub stats" width="400"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lidarmansiwon" alt="GitHub Streak" width="400"><br>
-  <img src="https://gh-contributions-widget.vercel.app/?username=lidarmansiwon&count=145" alt="145 contributions in the last year" width="400">
 </p>
 
 ---
